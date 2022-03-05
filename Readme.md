@@ -1,1 +1,2 @@
-# This is Nargizas portfolio
+# Deployed link
+https://nargizaziiadinova.github.io/nargiza/
